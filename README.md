@@ -24,7 +24,7 @@ This is a simple weather app built with Node.js and the OpenWeatherMap API.
    OPENWEATHER_API_KEY=your_openweathermap_api_key
 
 # Run the App:
-npm start
+ ```npm start
 
 # Visit the App:
 Open your web browser and go to http://localhost:3000.
