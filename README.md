@@ -15,7 +15,7 @@ This is a simple weather app built with Node.js and the OpenWeatherMap API.
 2. **Install Dependencies:**
     ```bash
     npm install
-    ```
+    
 
 3. **Set Up Environment Variables:**
    Create a `.env` file in the root of your project and add the following:
@@ -25,7 +25,7 @@ This is a simple weather app built with Node.js and the OpenWeatherMap API.
 
 # Run the App:
 ```bash
- npm start
+ npm start```
 
 # Visit the App:
 Open your web browser and go to http://localhost:3000.
