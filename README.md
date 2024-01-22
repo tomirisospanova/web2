@@ -23,7 +23,7 @@ This is a simple weather app built with Node.js and the OpenWeatherMap API.
    PORT=3000
    OPENWEATHER_API_KEY=your_openweathermap_api_key
 
-# Run the App:
+**Run the App:**
 ```bash
  npm start```
 
